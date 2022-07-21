@@ -3,11 +3,11 @@
 <div align="center">Meanwhile, you can explore some of my personal projects</div>
 <br/>
 <div float="left" align="center">
-  <img src="images/github.png" width="12">
+  <img src="images/github.png" width="16">
   <a href="https://github.com/slavabarkov/railway-infrastructure-segmentation">Railway infrastructure segmentation</a>
 </div>
 <div float="left" align="center">
-  <img src="images/github.png" width="12">
+  <img src="images/github.png" width="16">
   <a href="https://github.com/slavabarkov/aerial-template-matching">Aerial template matching</a>
 </div>
 <br/>
