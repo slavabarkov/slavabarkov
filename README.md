@@ -8,7 +8,7 @@
 </div>
 <div float="left" align="center">
   <img src="images/github.png" width="16">
-  <a href="https://github.com/slavabarkov/aerial-template-matching">Aerial template matching with Normalization Free Net</a>
+  <a href="https://github.com/slavabarkov/aerial-template-matching">Aerial template matching with NFNet</a>
 </div>
 <br/>
 <div float="left" align="center">
