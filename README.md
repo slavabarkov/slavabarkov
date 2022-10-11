@@ -4,6 +4,7 @@
 <br/>
 <div float="left" align="center">
   <img src="images/kaggle.png" width="12">
+  <img src="images/silver.png" width="15">
   <a href="https://www.kaggle.com/code/slavabarkov/google-universal-image-embedding-submission" title="Google Universal Image Embedding">Silver medal solution in Kaggle's 2022 Google Universal Image Embedding competition</a>
 </div>
 <br/>
