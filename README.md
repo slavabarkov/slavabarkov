@@ -3,12 +3,17 @@
 <div align="center">Meanwhile, you can explore some of my personal projects</div>
 <br/>
 <div float="left" align="center">
+  <img src="images/kaggle.png" width="12">
+  <a href="https://www.kaggle.com/code/slavabarkov/google-universal-image-embedding-submission" title="Google Universal Image Embedding">Silver medal solution in Kaggle's 2022 Google Universal Image Embedding competition</a>
+</div>
+<br/>
+<div float="left" align="center">
   <img src="images/github.png" width="16">
-  <a href="https://github.com/slavabarkov/railway-infrastructure-segmentation">Railway infrastructure segmentation with Pyramid Attention Network</a>
+  <a href="https://github.com/slavabarkov/railway-infrastructure-segmentation">Railway infrastructure segmentation with Pyramid Attention Network - prizewinner of Digital Breakthrough 2022 Hackathon</a>
 </div>
 <div float="left" align="center">
   <img src="images/github.png" width="16">
-  <a href="https://github.com/slavabarkov/aerial-template-matching">Aerial template matching with NFNet</a>
+  <a href="https://github.com/slavabarkov/aerial-template-matching">Aerial template matching with NFNet - prizewinner of Digital Breakthrough 2022 Hackathon</a>
 </div>
 <br/>
 <div float="left" align="center">
