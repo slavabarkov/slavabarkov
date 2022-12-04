@@ -19,13 +19,9 @@
 <br/>
 <div float="left" align="center">
   <img src="images/kaggle.png" width="12">
-  <a href="https://www.kaggle.com/code/slavabarkov/captcha-recognition-with-efficientnet" title="Captcha recognition with EfficientNet">Captcha recognition with EfficientNet</a>
+  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-mmdetection-toolbox" title="Person segmentation with MMDetection Toolbox">Person segmentation with MMDetection Toolbox</a>
 </div>
 <div float="left" align="center">
   <img src="images/kaggle.png" width="12">
-  <a href="https://www.kaggle.com/code/slavabarkov/flower-classification-with-densenet-on-pytorch" title="Flower classification with DenseNet on PyTorch">Flower classification with DenseNet on PyTorch</a>
-</div>
-<div float="left" align="center">
-  <img src="images/kaggle.png" width="12">
-  <a href="https://www.kaggle.com/code/slavabarkov/simple-person-segmentation-with-gluoncv-toolkit" title="Simple person segmentation with GluonCV Toolkit">Simple person segmentation with GluonCV Toolkit</a>
+  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-gluoncv-toolkit" title="Person segmentation with GluonCV Toolkit">Person segmentation with GluonCV Toolkit</a>
 </div>
