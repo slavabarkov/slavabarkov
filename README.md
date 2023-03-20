@@ -5,7 +5,7 @@
 <div float="left" align="center">
   <img src="images/android.png" width="18">
   <img src="images/onnx.png" width="18">
-  <a href="https://github.com/slavabarkov/tidy" title="TIDY - Text-to-Image Discovery">TIDY - offline semantic Text-to-Image and Image-to-Image search on Android powered by vision-language pretrained CLIP model and ONNX Runtime inference engine</a>
+  <a href="https://github.com/slavabarkov/tidy" title="TIDY - Text-to-Image Discovery">TIDY - Offline semantic Text-to-Image and Image-to-Image search on Android powered by vision-language pretrained CLIP model and ONNX Runtime inference engine</a>
 </div>
 <br/>
 <div float="left" align="center">
@@ -21,9 +21,9 @@
 <br/>
 <div float="left" align="center">
   <img src="images/kaggle.png" width="18">
-  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-mmdetection-toolbox" title="Person segmentation with MMDetection Toolbox">Person segmentation with MMDetection Toolbox</a>
+  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-gluoncv-toolkit" title="Person segmentation with GluonCV Toolkit">Person segmentation with GluonCV Toolkit</a>
 </div>
 <div float="left" align="center">
   <img src="images/kaggle.png" width="18">
-  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-gluoncv-toolkit" title="Person segmentation with GluonCV Toolkit">Person segmentation with GluonCV Toolkit</a>
+  <a href="https://www.kaggle.com/code/slavabarkov/person-segmentation-with-mmdetection-toolbox" title="Person segmentation with MMDetection Toolbox">Person segmentation with MMDetection Toolbox</a>
 </div>
