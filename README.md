@@ -27,7 +27,7 @@
 </div>
 <div float="left" align="center">
   <img src="images/github.png" width="16">
-  <a href="https://github.com/slavabarkov/railway-infrastructure-segmentation">Railway infrastructure segmentation with Pyramid Attention Network - prizewinner of Digital Breakthrough 2022 Hackathon</a>
+  <a href="https://github.com/slavabarkov/railway">Railway infrastructure segmentation with Pyramid Attention Network - prizewinner of Digital Breakthrough 2022 Hackathon</a>
 </div>
 <br/>
 <div float="left" align="center">Guides:</div>
